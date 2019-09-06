@@ -1,7 +1,9 @@
 
-![alt text](https://www.solarrising.net/wp-content/uploads/2017/05/Powerwall-Tesla-Home-Battery-Official-Tesla-Energy-Logo.jpg)
+![Tesla Powerwall Logo](https://www.canstarblue.com.au/wp-content/uploads/2017/10/Tesla-Powerwall-logo-cropped-reduced.png)
 
 ### Tesla Demo App
-Demonstration App for a ReactJS Project with NodeJS & DynamoDB Backend.
+Demonstration App for a ReactJS Project with NodeJS & DynamoDB Backend. Built Mobile First with Bootstrap CSS. 
+
+This is just a demonstration application.
 
 Built by Lukas Kuhn
