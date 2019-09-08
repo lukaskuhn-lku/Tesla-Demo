@@ -21,10 +21,11 @@ class RoomStatistics extends Component {
           scales: {
             yAxes: [
               {
-                display: false,
+                display: true,
                 ticks: {
                   beginAtZero: true,
-                  suggestedMax: 100
+                  suggestedMax: 100,
+                  fontColor: "white"
                 }
               }
             ],

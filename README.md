@@ -6,6 +6,6 @@ Demonstration App for a ReactJS Project with NodeJS & DynamoDB Backend. Built Mo
 
 This is just a demonstration application.
 
-![Tesla Powerwall Screenshot 1](https://i.imgur.com/1s5fruX.png) ![Tesla Powerwall Screenshot 1](https://i.imgur.com/pTwdd6C.png)
+![Tesla Powerwall Screenshot 1](https://i.imgur.com/amjIZzN.png) ![Tesla Powerwall Screenshot 2](https://i.imgur.com/lL9IBpF.png)
 
 Built by Lukas Kuhn
